@@ -1,2 +1,3 @@
-# sswathilalithadevi.github.io
-this is my website
+### Myself S.Swathi Lalitha Devi ###
+### studying at Sri Vasavi Engineering College ECT Branch ###
+### i learned about github by APSSDC ###
